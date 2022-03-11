@@ -1,6 +1,4 @@
-# application_1
-
-A new Flutter project.
+# Store
 
 ## Getting Started
 
